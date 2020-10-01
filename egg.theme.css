@@ -1,12 +1,11 @@
 /**
- * @name egg
- * @version 2.0
- * @description discord theme with egg color scheme based on discord revamp by hellbound
- * @source wink
- * @authorId 
- * @author CrustWare
- * @donate 
- * @invite 
-**/
+ * @name Material_Discord
+ * @version 2.3.3.6
+ * @description A theme based on Google's Material Design
+ * @author CapnKitten
+ * 
+ * @website http://github.com/CapnKitten
+ * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Material-Discord/css/source.css
+ */
 
-@import  url:/home/crust/.config/Lightcord_BD/themes/eggsource.css;
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css?v=2.3.3.6);
